@@ -1,4 +1,15 @@
-## Hi there 👋
+## About ME
+Hi! I'm Fiyin
+## Skills I'm learning
+- Python
+- HTML
+- CSS
+- Java Script
+## Hobbies
+- Playing Soccer
+- Cooking
+## Fun fact
+- I like cooking new recipes
 
 <!--
 **fiyiniyanda/fiyiniyanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
